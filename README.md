@@ -9,19 +9,7 @@ But there's a lot more to maps than driving directions! Scientists uses maps eve
 For our first lesson, we're going to briefly walk through how maps work and kick off the workshop with some fun extra credit!
 
 ## Objectives
-* Learn about mapping technologies like Leaflet
+1. Improving concepts about hooks.
+2. Learning React Leaflet
 
-### 1. Mapping Overview
 
-We'll start by hearing a little bit about how maps work and some cool examples to get us ready for the workshop!
-
-## Extra Credit
-
-Before we dig in, let's personalize our app!
-
-For the first Extra Credit activity, look for the `avatar.jpg` file and update it with your own photo.
-
-You can find the image file in `/lessons/shared-assets`.
-
-#### Where We'll Make Changes
-* `/lessons/shared-assets/avatar.jpg`
